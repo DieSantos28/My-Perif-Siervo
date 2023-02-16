@@ -8,7 +8,7 @@ export const ItemDetailContainer = () => {
         fetch('../json/productos.json')
         .then(response => response.json())
         .then(products => {
-            const item = products.find(prod => prod.id === parseInt(id))
+            const item = products.find(prod => prod.id === (id))
             setProducto(item)
         })
     }, [])

@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "Mouse HyperX",
         "idCategoria": 2,
         "nombre": "Mouse HyperX",
         "marca": "HyperX",
@@ -10,7 +10,7 @@
         "img":"mouse-hyperx.jpg"
     },
     {
-        "id": 2,
+        "id": "Mouse Genius",
         "idCategoria": 2,
         "nombre": "Mouse Genius",
         "marca": "Genius",
@@ -20,7 +20,7 @@
         "img":"mouse-genius.jpg"
     },
     {
-        "id": 3,
+        "id": "Mouse Razer",
         "idCategoria": 2,
         "nombre": "Mouse Razer",
         "marca": "Razer",
@@ -30,7 +30,7 @@
         "img":"mouse-razer.jpg"
     },
     {
-        "id": 4,
+        "id": "Mouse Logitech",
         "idCategoria": 2,
         "nombre": "Mouse Logitech",
         "marca": "Logitech",
@@ -40,7 +40,7 @@
         "img":"mouse-logitech.jpg"
     },
     {
-        "id": 5,
+        "id": "Mouse Msi",
         "idCategoria": 2,
         "nombre": "Mouse Msi",
         "marca": "MSI",
@@ -50,7 +50,7 @@
         "img":"mouse-msi.jpg"
     },
     {
-        "id": 6,
+        "id": "Mouse CoolerMaster",
         "idCategoria": 2,
         "nombre": "Mouse CoolerMaster",
         "marca": "CoolerMaster",
@@ -60,7 +60,7 @@
         "img":"mouse-coolermaster.jpg"
     },
     {
-        "id": 7,
+        "id": "Teclado Razer",
         "idCategoria": 1,
         "nombre": "Teclado Razer",
         "marca": "Razer",
@@ -70,7 +70,7 @@
         "img":"teclado-razer.jpg"
     },
     {
-        "id": 8,
+        "id": "Teclado Logitech",
         "idCategoria": 1,
         "nombre": "Teclado Logitech",
         "marca": "Logitech",
@@ -80,7 +80,7 @@
         "img":"teclado-logitech.jpg"
     },
     {
-        "id": 9,
+        "id": "Teclado HyperX",
         "idCategoria": 1,
         "nombre": "Teclado HyperX",
         "marca": "HyperX",
@@ -90,7 +90,7 @@
         "img":"teclado-hyperx.jpg"
     },
     {
-        "id": 10,
+        "id": "Teclado Msi",
         "idCategoria": 1,
         "nombre": "Teclado Msi",
         "marca": "MSI",
@@ -100,7 +100,7 @@
         "img":"teclado-msi.jpg"
     },
     {
-        "id": 11,
+        "id": "Teclado RedDragon",
         "idCategoria": 1,
         "nombre": "Teclado RedDragon",
         "marca": "RedDragon",
@@ -110,7 +110,7 @@
         "img":"teclado-reddragon.jpg"
     },
     {
-        "id": 12,
+        "id": "Teclado CoolerMaster",
         "idCategoria": 1,
         "nombre": "Teclado CoolerMaster",
         "marca": "CoolerMaster",

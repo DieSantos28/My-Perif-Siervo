@@ -15,6 +15,7 @@ export const ItemListContainer = () => {
                 console.log(productsList)
                 setProductos(productsList)
             })
+            
         } else {
             fetch('./json/productos.json')
             .then(response => response.json())
