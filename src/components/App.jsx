@@ -1,14 +1,13 @@
+import './App.css'
 import Navbar from "./Navbar/Navbar";
-import CartWidget from "./CartWidget/CartWidget";
-import ItemListContainer from "./ItemListContainer/ItemListContainer";
+import { ItemListContainer } from './ItemListContainer/ItemListContainer';
+import { ItemDetailContainer } from './ItemDetailContainer/ItemDetailContainer';
 const App = () => {
   return (
     <>
       <Navbar/>
-      <CartWidget/>
       <ItemListContainer/>
-      
-      
+      <ItemDetailContainer/>
     </>
   );
 }

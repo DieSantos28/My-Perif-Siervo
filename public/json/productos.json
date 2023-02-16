@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Mouse HyperX",
+        "marca": "HyperX",
+        "modelo":"Pulsefire CORE Gaming",
+        "precio": 1200,
+        "stock": 30,
+        "img":"mouse-hyperx.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Mouse Genius",
+        "marca": "Genius",
+        "modelo":"G200",
+        "precio": 800,
+        "stock": 30,
+        "img":"mouse-genius.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "Mouse Razer",
+        "marca": "Razer",
+        "modelo":"Basilisk X",
+        "precio": 2200,
+        "stock": 30,
+        "img":"mouse-razer.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Mouse Logitech",
+        "marca": "Logitech",
+        "modelo":"Logitech ProHero",
+        "precio": 1500,
+        "stock": 30,
+        "img":"mouse-logitech.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 5,
+        "nombre": "Mouse Msi",
+        "marca": "MSI",
+        "modelo":"Clutch",
+        "precio": 800,
+        "stock": 30,
+        "img":"mouse-msi.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 6,
+        "nombre": "Mouse CoolerMaster",
+        "marca": "CoolerMaster",
+        "modelo":"MM711",
+        "precio": 2200,
+        "stock": 30,
+        "img":"mouse-coolermaster.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 7,
+        "nombre": "Teclado Razer",
+        "marca": "Razer",
+        "modelo":"BlackWidow",
+        "precio": 6000,
+        "stock": 30,
+        "img":"teclado-razer.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 8,
+        "nombre": "Teclado Logitech",
+        "marca": "Logitech",
+        "modelo":"G413",
+        "precio": 3000,
+        "stock": 30,
+        "img":"teclado-logitech.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 9,
+        "nombre": "Teclado HyperX",
+        "marca": "HyperX",
+        "modelo":"Alloy",
+        "precio": 2200,
+        "stock": 30,
+        "img":"teclado-hyperx.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 10,
+        "nombre": "Teclado Msi",
+        "marca": "MSI",
+        "modelo":"GK20",
+        "precio": 2300,
+        "stock": 30,
+        "img":"teclado-msi.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 11,
+        "nombre": "Teclado RedDragon",
+        "marca": "RedDragon",
+        "modelo":"Shiva White",
+        "precio": 1400,
+        "stock": 30,
+        "img":"teclado-reddragon.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 12,
+        "nombre": "Teclado CoolerMaster",
+        "marca": "CoolerMaster",
+        "modelo":"CK530",
+        "precio": 4000,
+        "stock": 30,
+        "img":"teclado-coolmaster.jpg"
+    }
+    
+]
