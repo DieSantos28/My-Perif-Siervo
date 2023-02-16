@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "idCategoria": 1,
+        "idCategoria": 2,
         "nombre": "Mouse HyperX",
         "marca": "HyperX",
         "modelo":"Pulsefire CORE Gaming",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "idCategoria": 3,
+        "idCategoria": 2,
         "nombre": "Mouse Razer",
         "marca": "Razer",
         "modelo":"Basilisk X",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "idCategoria": 4,
+        "idCategoria": 2,
         "nombre": "Mouse Logitech",
         "marca": "Logitech",
         "modelo":"Logitech ProHero",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "idCategoria": 5,
+        "idCategoria": 2,
         "nombre": "Mouse Msi",
         "marca": "MSI",
         "modelo":"Clutch",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "idCategoria": 6,
+        "idCategoria": 2,
         "nombre": "Mouse CoolerMaster",
         "marca": "CoolerMaster",
         "modelo":"MM711",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "idCategoria": 7,
+        "idCategoria": 1,
         "nombre": "Teclado Razer",
         "marca": "Razer",
         "modelo":"BlackWidow",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "idCategoria": 8,
+        "idCategoria": 1,
         "nombre": "Teclado Logitech",
         "marca": "Logitech",
         "modelo":"G413",
@@ -81,7 +81,7 @@
     },
     {
         "id": 9,
-        "idCategoria": 9,
+        "idCategoria": 1,
         "nombre": "Teclado HyperX",
         "marca": "HyperX",
         "modelo":"Alloy",
@@ -91,7 +91,7 @@
     },
     {
         "id": 10,
-        "idCategoria": 10,
+        "idCategoria": 1,
         "nombre": "Teclado Msi",
         "marca": "MSI",
         "modelo":"GK20",
@@ -101,7 +101,7 @@
     },
     {
         "id": 11,
-        "idCategoria": 11,
+        "idCategoria": 1,
         "nombre": "Teclado RedDragon",
         "marca": "RedDragon",
         "modelo":"Shiva White",
@@ -111,7 +111,7 @@
     },
     {
         "id": 12,
-        "idCategoria": 12,
+        "idCategoria": 1,
         "nombre": "Teclado CoolerMaster",
         "marca": "CoolerMaster",
         "modelo":"CK530",
