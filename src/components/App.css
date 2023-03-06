@@ -24,3 +24,32 @@ img {
     max-width: 540px;
     margin-top: 20px;
 }
+
+.itemDetailBodyDark {
+    background-color: hsl(0, 0, 33%);
+    color:white;
+}
+
+.darkMode {
+    background-color: black;
+    color: rgb(151, 149, 149);
+}
+
+.cardBodyDark {
+    background-color: hsl(0, 0, 33%);
+    margin-bottom: 3px;
+    text-align: center;
+}
+
+.cartContainer {
+    margin-top: 3%;
+    margin-left: 26,5%;
+}
+
+.divButtons button {
+    margin:4px;
+}
+
+.cardCart {
+    max-width: 640px;
+}

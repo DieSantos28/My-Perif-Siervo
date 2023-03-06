@@ -1,9 +1,10 @@
+import { Link } from "react-router-dom";
 const CartWidget = ({cantCarrito}) => {
     return (
-        <div>
-           <i className="bi bi-cart-fill"></i> 
-           <p>{cantCarrito}</p>
-        </div>
+        <>
+            <Link className="nav-link" to={'/cart'}><button className="btn btn-dark">Carrito</button></Link> 
+            <p>{cantCarrito}</p>
+        </>
     );
 }
 

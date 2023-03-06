@@ -7,7 +7,7 @@
         "modelo":"Pulsefire CORE Gaming",
         "precio": 1200,
         "stock": 30,
-        "img":"mouse-hyperx.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/mouse-hyperx.jpg?alt=media&token=e9bb507b-0145-4f46-88ab-c47797082178"
     },
     {
         "id": "Mouse Genius",
@@ -17,7 +17,7 @@
         "modelo":"G200",
         "precio": 800,
         "stock": 30,
-        "img":"mouse-genius.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/mouse-genius.jpg?alt=media&token=7833a7c2-e626-448e-b607-095254924776"
     },
     {
         "id": "Mouse Razer",
@@ -27,7 +27,7 @@
         "modelo":"Basilisk X",
         "precio": 2200,
         "stock": 30,
-        "img":"mouse-razer.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/mouse-razer.jpg?alt=media&token=ebcb8999-7fa3-4480-b52f-452b50c5b2ae"
     },
     {
         "id": "Mouse Logitech",
@@ -37,7 +37,7 @@
         "modelo":"Logitech ProHero",
         "precio": 1500,
         "stock": 30,
-        "img":"mouse-logitech.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/mouse-logitech.jpg?alt=media&token=45fcc806-b8b8-4168-8d06-e4d335fa2c54"
     },
     {
         "id": "Mouse Msi",
@@ -47,7 +47,7 @@
         "modelo":"Clutch",
         "precio": 800,
         "stock": 30,
-        "img":"mouse-msi.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/mouse-msi.jpg?alt=media&token=82795892-b595-44a3-84b6-d97831d37455"
     },
     {
         "id": "Mouse CoolerMaster",
@@ -57,7 +57,7 @@
         "modelo":"MM711",
         "precio": 2200,
         "stock": 30,
-        "img":"mouse-coolermaster.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/mouse-coolermaster.jpg?alt=media&token=93d7d065-44ac-4090-96a5-4ad8104712f5"
     },
     {
         "id": "Teclado Razer",
@@ -67,7 +67,7 @@
         "modelo":"BlackWidow",
         "precio": 6000,
         "stock": 30,
-        "img":"teclado-razer.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/teclado-razer.jpg?alt=media&token=858f7477-5ff4-4da4-8abc-0956586a1de2"
     },
     {
         "id": "Teclado Logitech",
@@ -77,7 +77,7 @@
         "modelo":"G413",
         "precio": 3000,
         "stock": 30,
-        "img":"teclado-logitech.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/teclado-logitech.jpg?alt=media&token=69bbc421-6bf2-4397-a7f5-cd55bf6b920b"
     },
     {
         "id": "Teclado HyperX",
@@ -87,7 +87,7 @@
         "modelo":"Alloy",
         "precio": 2200,
         "stock": 30,
-        "img":"teclado-hyperx.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/teclado-hyperx.jpg?alt=media&token=2841d6bd-2e25-45eb-8f35-a31e612767e9"
     },
     {
         "id": "Teclado Msi",
@@ -97,7 +97,7 @@
         "modelo":"GK20",
         "precio": 2300,
         "stock": 30,
-        "img":"teclado-msi.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/teclado-msi.jpg?alt=media&token=90353d77-34d8-4914-a682-a2b3271c00c0"
     },
     {
         "id": "Teclado RedDragon",
@@ -107,7 +107,7 @@
         "modelo":"Shiva White",
         "precio": 1400,
         "stock": 30,
-        "img":"teclado-reddragon.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/teclado-reddragon.jpg?alt=media&token=999ec5e2-8ac5-4692-bcf6-54eef056fbef"
     },
     {
         "id": "Teclado CoolerMaster",
@@ -117,7 +117,7 @@
         "modelo":"CK530",
         "precio": 4000,
         "stock": 30,
-        "img":"teclado-coolmaster.jpg"
+        "img":"https://firebasestorage.googleapis.com/v0/b/my-perif.appspot.com/o/teclado-coolmaster.jpg?alt=media&token=05221ffd-2d56-461f-a79b-b1d377ac3750"
     }
     
 ]
