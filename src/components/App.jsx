@@ -3,17 +3,18 @@ import './App.css'
 import 'react-toastify/dist/ReactToastify.css'
 import { ToastContainer } from 'react-toastify';
 import { DarkModeProvider } from '../context/DarkModeContext';
-import { cargarBDD } from '../firebase/firebase';
+import { CarritoProvider } from '../context/CarritoContext';
 import Navbar from "./Navbar/Navbar";
 import { ItemListContainer } from './ItemListContainer/ItemListContainer';
 import { ItemDetailContainer } from './ItemDetailContainer/ItemDetailContainer';
 import { Contacto } from './Contacto/Contacto';
 import { Cart } from './Cart/Cart';
 const App = () => {
-  cargarBDD()
+  //cargarBDD()
   return (
     <>
   <BrowserRouter>
+  <CarritoProvider>
     <DarkModeProvider>
       <Navbar/>
       <Routes>
@@ -25,6 +26,7 @@ const App = () => {
       </Routes> 
       <ToastContainer/>
     </DarkModeProvider>
+    </CarritoProvider>
   </BrowserRouter>
       
     </>

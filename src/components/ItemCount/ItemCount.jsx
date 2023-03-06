@@ -1,12 +1,13 @@
 import { useState } from "react"
 import {toast} from 'react-toastify'
-export const ItemCount = ({valInicial, stock}) => {
+export const ItemCount = ({valInicial, stock, onAdd}) => {
     
     const [contador, setContador] = useState (valInicial)
 
     const aumentarContador = () => (contador < stock ) && setContador (contador + 1)
     const disminuirContador = () =>(contador > valInicial) && setContador (contador -1)
     const agregarCarrito = () => {
+      onAdd(contador)
       toast(`👾 Agregaste ${contador} periferico(s) al carrito!`) 
     }
 
